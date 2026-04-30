@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TEAM-TASK-MANAGER/static/css/main.95de0a37.css",
+    "main.js": "/TEAM-TASK-MANAGER/static/js/main.9deadf9f.js",
+    "index.html": "/TEAM-TASK-MANAGER/index.html",
+    "main.95de0a37.css.map": "/TEAM-TASK-MANAGER/static/css/main.95de0a37.css.map",
+    "main.9deadf9f.js.map": "/TEAM-TASK-MANAGER/static/js/main.9deadf9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95de0a37.css",
+    "static/js/main.9deadf9f.js"
+  ]
+}
